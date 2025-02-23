@@ -6,14 +6,21 @@
     <description>Recent content on ThousandGrasses 的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Feb 2025 13:27:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 15:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Articles01</title>
-      <link>http://localhost:1313/posts/articles01/</link>
+      <title>Wells-Riley 模型</title>
+      <link>http://localhost:1313/posts/wells-riley-%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Sun, 23 Feb 2025 15:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wells-riley-%E6%A8%A1%E5%9E%8B/</guid>
+      <description>&lt;p&gt;或许你之前在别的地方看到过这篇文章&lt;/p&gt;&#xA;&lt;p&gt;对，没错，就是我写的&lt;/p&gt;&#xA;&lt;p&gt;除了我翻库存找出来这一篇之外，谁会费那个劲把这些 LaTeX 公式挨个敲一遍呢 hhh&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;wells-riley-模型&#34;&gt;Wells-Riley 模型&lt;/h1&gt;&#xA;&lt;p&gt;谨以此文献给我的家长。希望这篇文章能让他们更好的通过定量的方式，理解密闭空间中的感染风险，以及一些防护措施的必要性。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Sun, 23 Feb 2025 13:27:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/articles01/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description>&lt;p&gt;你好，世界！&lt;/p&gt;&#xA;&lt;p&gt;这是这个博客的第一篇，作为示例使用。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ThousandGrasses 的博客</title>
+    <title>Posts on ThousandGrasses 的 Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ThousandGrasses 的博客</description>
+    <description>Recent content in Posts on ThousandGrasses 的 Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 23 Feb 2025 13:27:26 +0800</lastBuildDate>
